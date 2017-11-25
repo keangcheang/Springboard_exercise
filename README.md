@@ -3,11 +3,11 @@
 Projects
 Curriculum at Springboard November 27th, 2017.
 
-03 Ideas for Capstone Project 01
-Capstone Project 01 proposal
-JSON based data exercises
-Work on XML based data exercises
-Mode Analytics case study
+1. 03 Ideas for Capstone Project 01
+2. Capstone Project 01 proposal
+3. JSON based data exercises
+4. Work on XML based data exercises
+5. Mode Analytics case study
 Capstone Project 1: Data Wrangling
 Report on Data Science meetup
 Work on your Data Story
