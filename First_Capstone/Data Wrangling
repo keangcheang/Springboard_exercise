@@ -6,4 +6,4 @@ Next, I had to check the distribution of price variable whether it was a normal 
 
 After that, we had to deal with missing value. Firstly, to deal with missing value in categorical values like exterior wall and tax district, I had to find the most common value for these features in order to the replace the value against the missing value since forward filling or backward filling would not work in this case. For other numeric variables, I will use their means to replace the missing value. These methods could be done using function fillna() in pandas library. There were not any outliers presented in the data. 
 
-Lastly, due to the model I used required the categorical value to be dummy variables, I had to convert the variables to binary value such 0 and 1 to different columns. I used pandas to_dummie() function to tackle this task.
+Lastly, due to the model I used required the categorical value to be dummy variables, I had to convert the variables to binary value such 0 and 1 to different columns. I used pandas to_dummie() function to tackle this task..
